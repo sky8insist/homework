@@ -1,0 +1,5 @@
+{
+  "name": "知识检索平台",
+  "description": "基于检索的问答系统 (Topic 4)，允许用户查询自定义文档集合并获得带有来源引用的精确答案。",
+  "requestFramePermissions": []
+}
